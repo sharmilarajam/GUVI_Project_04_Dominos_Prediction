@@ -37,7 +37,7 @@ Large food chains like Domino’s need to predict how many pizzas they’ll sell
 
 You can download the forecast result here:
 
-🔗 [Download prediction.xlsx](./prediction.xlsx)
+🔗 [Download prediction.xlsx](./purchase_order.xlsx)
 
 
 
